@@ -7,7 +7,7 @@ I cleaned and transformed the dataset directly in Power BI’s Query Editor, ens
 
 ## 🛠️ Tools Used
 
-**Power BI** -  Data modeling, cleaning (Query Editor), DAX calculations, and dashboard design //
+**Power BI** -  Data modeling, cleaning (Query Editor), DAX calculations, and dashboard design 
 **Excel / CSV Data** -  Source dataset before import into Power BI 
 
 ## 📈 Dashboard Insights
