@@ -60,6 +60,3 @@ Performed entirely in Power BI Query Editor:
 - Subtitles and language availability significantly improve learner accessibility
 - Clean, structured data enables clearer insights and smoother dashboard navigation
 
-
-## 📷 Dashboard Preview
-*(Add dashboard image here if you'd like)*  
